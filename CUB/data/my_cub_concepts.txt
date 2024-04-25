@@ -1,0 +1,312 @@
+a curved bill
+a dagger shaped bill
+a hooked bill
+a needle shaped bill
+a bill like a hooked-seabird
+a spatulated bill
+a all-purpose
+a cone shaped bill
+a specialized bill
+a blue coloured wing
+a brown coloured wing
+a iridescent coloured wing
+a purple coloured wing
+a rufous coloured wing
+a grey coloured wing
+a yellow coloured wing
+a olive coloured wing
+a green coloured wing
+a pink coloured wing
+a orange coloured wing
+a black coloured wing
+a white coloured wing
+a red coloured wing
+a buff coloured wing
+a blue coloured upper body
+a brown coloured upper body
+a iridescent coloured upper body
+a purple coloured upper body
+a rufous coloured upper body
+a grey coloured upper body
+a yellow coloured upper body
+a olive coloured upper body
+a green coloured upper body
+a pink coloured upper body
+a orange coloured upper body
+a black coloured upper body
+a white coloured upper body
+a red coloured upper body
+a buff coloured upper body
+a blue coloured lower body
+a brown coloured lower body
+a iridescent coloured lower body
+a purple coloured lower body
+a rufous coloured lower body
+a grey coloured lower body
+a yellow coloured lower body
+a olive coloured lower body
+a green coloured lower body
+a pink coloured lower body
+a orange coloured lower body
+a black coloured lower body
+a white coloured lower body
+a red coloured lower body
+a buff coloured lower body
+a solid pattern in the breast
+a spotted pattern in the breast
+a striped pattern in the breast
+a multi-colored pattern in the breast
+a blue coloured back
+a brown coloured back
+a iridescent coloured back
+a purple coloured back
+a rufous coloured back
+a grey coloured back
+a yellow coloured back
+a olive coloured back
+a green coloured back
+a pink coloured back
+a orange coloured back
+a black coloured back
+a white coloured back
+a red coloured back
+a buff coloured back
+a forked tail
+a rounded tail
+a notched tail
+a fan-shaped tail
+a pointed tail
+a squared tail
+a blue coloured upper tail
+a brown coloured upper tail
+a iridescent coloured upper tail
+a purple coloured upper tail
+a rufous coloured upper tail
+a grey coloured upper tail
+a yellow coloured upper tail
+a olive coloured upper tail
+a green coloured upper tail
+a pink coloured upper tail
+a orange coloured upper tail
+a black coloured upper tail
+a white coloured upper tail
+a red coloured upper tail
+a buff coloured upper tail
+a spotted pattern in the head
+a malar pattern in the head
+a crested pattern in the head
+a masked pattern in the head
+a unique pattern in the head
+a eyebrow pattern in the head
+a eyering pattern in the head
+a plain pattern in the head
+a eyeline pattern in the head
+a striped pattern in the head
+a capped pattern in the head
+a blue coloured breast
+a brown coloured breast
+a iridescent coloured breast
+a purple coloured breast
+a rufous coloured breast
+a grey coloured breast
+a yellow coloured breast
+a olive coloured breast
+a green coloured breast
+a pink coloured breast
+a orange coloured breast
+a black coloured breast
+a white coloured breast
+a red coloured breast
+a buff coloured breast
+a blue coloured throat
+a brown coloured throat
+a iridescent coloured throat
+a purple coloured throat
+a rufous coloured throat
+a grey coloured throat
+a yellow coloured throat
+a olive coloured throat
+a green coloured throat
+a pink coloured throat
+a orange coloured throat
+a black coloured throat
+a white coloured throat
+a red coloured throat
+a buff coloured throat
+a blue coloured eye
+a brown coloured eye
+a purple coloured eye
+a rufous coloured eye
+a grey coloured eye
+a yellow coloured eye
+a olive coloured eye
+a green coloured eye
+a pink coloured eye
+a orange coloured eye
+a black coloured eye
+a white coloured eye
+a red coloured eye
+a buff coloured eye
+has bill length about the same ashead
+has bill length longer than head
+has bill length shorter than head
+a blue coloured forehead
+a brown coloured forehead
+a iridescent coloured forehead
+a purple coloured forehead
+a rufous coloured forehead
+a grey coloured forehead
+a yellow coloured forehead
+a olive coloured forehead
+a green coloured forehead
+a pink coloured forehead
+a orange coloured forehead
+a black coloured forehead
+a white coloured forehead
+a red coloured forehead
+a buff coloured forehead
+a blue coloured under tail
+a brown coloured under tail
+a iridescent coloured under tail
+a purple coloured under tail
+a rufous coloured under tail
+a grey coloured under tail
+a yellow coloured under tail
+a olive coloured under tail
+a green coloured under tail
+a pink coloured under tail
+a orange coloured under tail
+a black coloured under tail
+a white coloured under tail
+a red coloured under tail
+a buff coloured under tail
+a blue coloured nape
+a brown coloured nape
+a iridescent coloured nape
+a purple coloured nape
+a rufous coloured nape
+a grey coloured nape
+a yellow coloured nape
+a olive coloured nape
+a green coloured nape
+a pink coloured nape
+a orange coloured nape
+a black coloured nape
+a white coloured nape
+a red coloured nape
+a buff coloured nape
+a blue coloured belly
+a brown coloured belly
+a iridescent coloured belly
+a purple coloured belly
+a rufous coloured belly
+a grey coloured belly
+a yellow coloured belly
+a olive coloured belly
+a green coloured belly
+a pink coloured belly
+a orange coloured belly
+a black coloured belly
+a white coloured belly
+a red coloured belly
+a buff coloured belly
+has rounded wings
+has pointed wings
+has broad wings
+has tapered wings
+has long wings
+a large bird
+a small bird
+a very large bird
+a medium bird
+a very small bird
+a upright-perching_water-like body shape
+a chicken-like-marsh body shape
+a long-legged-like body shape
+a duck-like body shape
+a owl-like body shape
+a gull-like body shape
+a hummingbird-like body shape
+a pigeon-like body shape
+a tree-clinging-like body shape
+a hawk-like body shape
+a sandpiper-like body shape
+a upland-ground-like body shape
+a swallow-like body shape
+a perching-like body shape
+a solid pattern in the back
+a spotted pattern in the back
+a striped pattern in the back
+a multi-colored pattern in the back
+a solid tail pattern
+a spotted tail pattern
+a striped tail pattern
+a multi-colored tail pattern
+a solid pattern in the belly
+a spotted pattern in the belly
+a striped pattern in the belly
+a multi-colored pattern in the belly
+has primary colour blue
+has primary colour brown
+has primary colour iridescent
+has primary colour purple
+has primary colour rufous
+has primary colour grey
+has primary colour yellow
+has primary colour olive
+has primary colour green
+has primary colour pink
+has primary colour orange
+has primary colour black
+has primary colour white
+has primary colour red
+has primary colour buff
+a blue coloured leg
+a brown coloured leg
+a iridescent coloured leg
+a purple coloured leg
+a rufous coloured leg
+a grey coloured leg
+a yellow coloured leg
+a olive coloured leg
+a green coloured leg
+a pink coloured leg
+a orange coloured leg
+a black coloured leg
+a white coloured leg
+a red coloured leg
+a buff coloured leg
+a blue coloured bill
+a brown coloured bill
+a iridescent coloured bill
+a purple coloured bill
+a rufous coloured bill
+a grey coloured bill
+a yellow coloured bill
+a olive coloured bill
+a green coloured bill
+a pink coloured bill
+a orange coloured bill
+a black coloured bill
+a white coloured bill
+a red coloured bill
+a buff coloured bill
+a blue coloured crown
+a brown coloured crown
+a iridescent coloured crown
+a purple coloured crown
+a rufous coloured crown
+a grey coloured crown
+a yellow coloured crown
+a olive coloured crown
+a green coloured crown
+a pink coloured crown
+a orange coloured crown
+a black coloured crown
+a white coloured crown
+a red coloured crown
+a buff coloured crown
+a solid wing pattern
+a spotted wing pattern
+a striped wing pattern
+a multi-colored wing pattern

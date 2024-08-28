@@ -3,6 +3,8 @@
 
 This repo provides the PyTorch scripts for the paper - ***[Improving Concept Alignment in Vision-Language Concept Bottleneck Models](https://arxiv.org/pdf/2405.01825)***.
 
+**Update:** Distributional Analysis scripts for CUB added.
+
 ---
 
 ## Problem Statement

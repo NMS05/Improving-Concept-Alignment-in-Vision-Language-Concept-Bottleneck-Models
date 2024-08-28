@@ -20,6 +20,8 @@
 
 - run css_vl_cbm_train.py to train the proposed CSS-VL-CBM model with concept semi-supervision
 
+- run distributional_analysis.py to analyse and visualize the spatial distribution of concepts for CLIP vs CSS
+
 
 ### Intervention
 

@@ -43,11 +43,4 @@ The scripts are provided individually for [CUB](CUB/), [Rival-10](Rival10) datas
 - **css_vl_cbm_train.py** = trains the proposed model with CSS learning objective.
 
 
----
-
-#### To Do
-
-Scripts for AwA2 and WBCAtt datasets to be updated!
-
-
 
